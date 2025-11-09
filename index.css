@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 40px;
+}
+
+#rmv-btn {
+    padding: 10px 20px;
+    font-weight: bold;
+    background: rgb(210, 84, 84);
+    color: white;
+    border-radius: 8px; 
+    border: none;
+}
+
+#rmv-btn:hover{
+    background: rgb(171, 48, 48);
+}
